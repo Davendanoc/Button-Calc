@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\bin\Debug\ButtonCalc.exe.config
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\bin\Debug\ButtonCalc.exe
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\bin\Debug\ButtonCalc.pdb
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\obj\Debug\ButtonCalc.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\obj\Debug\ButtonCalc.Form1.resources
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\obj\Debug\ButtonCalc.Properties.Resources.resources
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\obj\Debug\ButtonCalc.csproj.GenerateResource.cache
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\obj\Debug\ButtonCalc.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\obj\Debug\ButtonCalc.exe
+C:\Users\David\source\repos\ButtonCalc\ButtonCalc\obj\Debug\ButtonCalc.pdb
